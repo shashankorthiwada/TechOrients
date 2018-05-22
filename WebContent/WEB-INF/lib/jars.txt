@@ -1,0 +1,4 @@
+mysql-connector-java-5.1.39-bin(1).jar
+ojdbc5.jar
+ojdbc6.jar
+ojdbc6_g.jar

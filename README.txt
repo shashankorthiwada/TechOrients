@@ -1,0 +1,1 @@
+This is a Core java project on jsp,servlet and jdbc for jars refer jars.txt in web content/web-inf/lib folder
